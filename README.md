@@ -14,4 +14,4 @@ I am currently conducting optimizations and testing to determine the most effici
 
 Lessons learned:
 
-Code everyday-> code challenges-> Build things that spark passion.
+Code everyday-> code challenges-> Build things that spark passion. I will forever be learning.
