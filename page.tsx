@@ -3,13 +3,7 @@ import { ArrowTrendingDownIcon } from '@heroicons/react/24/outline';
 
 
    
-   
-   
-   
-  
-
-
-function Hompage() {
+ function Hompage() {
   return (
     <div className="flex flex-col items-center justify-center h-screen px-2 text-white">
       <title>My new created app!</title>
