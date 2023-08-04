@@ -14,6 +14,6 @@ I am currently conducting optimizations and testing to determine the most effici
 
 Lessons learned:
 
-Code everyday-> code challenges-> Build things that spark passion. I will forever be learning. Refactoring for time/space as i continue to learn.
+Code every day no matter how what time, as repetition is the only way-> code challenges-> Build things that spark passion. I will forever be learning. Refactoring for time/space as i continue to learn.
 
 command line git branch merge practice 
